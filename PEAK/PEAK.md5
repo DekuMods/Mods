@@ -32,6 +32,7 @@ a05c80554249c4f7872f6aa41087dfb2 *BepInEx\plugins\com.github.mitchellcairns.Stat
 9f13dcc362c00cb69e6ba383e50b8b32 *BepInEx\plugins\Compass.dll
 775b8aadfc70d184a8874b1490eaa050 *BepInEx\plugins\DisableSpaceClimb.dll
 1a344029d19554f3be0eca5107cda772 *BepInEx\plugins\HUDBuddy.dll
+67e6784f5f4faba65cd7ceb0b38b0a04 *BepInEx\plugins\morecustomhats
 f598165e91160ddc22e5851505e7fb00 *BepInEx\plugins\MoreCustomHats.dll
 771ab8c411d05fc11f7431757ffcbf75 *BepInEx\plugins\MoreHats.dll
 b12dd9b2397e1c3284a6147db41f6bfa *BepInEx\plugins\multiplayerpausepopup
@@ -39,3 +40,6 @@ eb1c8d84f0ddf42fe443a088b2906115 *BepInEx\plugins\PassportPagination.dll
 28ace841e3505b05947d27111f38d968 *BepInEx\plugins\PeakPauseMod.dll
 9a3770bc24508e99e8d8b1ddcf40630c *BepInEx\plugins\toomanyhats
 341eeb8dc0f1b0a87ac2207caa3255d5 *BepInEx\plugins\TooManyHats.dll
+7eecc9422cd48df6ea6502fd751e2d62 *BepInEx\plugins\pharmacomaniac-SettingsExtenderForked\SettingsExtender.dll
+5ad520c3ea3f710fe5b9534dbfcd940c *BepInEx\plugins\pharmacomaniac-SpeedrunTimer\SpeedrunTimer.dll
+d5f8d1a8bd23e6ca3c7f1bbcb0f2ccd5 *BepInEx\plugins\pharmacomaniac-SpeedrunTimer\speedtimer_ui
