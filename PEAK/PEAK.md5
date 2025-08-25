@@ -7,6 +7,7 @@ fa8f6f73a0baa5ff30b052be25f73efc *BepInEx\config\BepInEx.cfg
 2fb843cc0be80339ff57134eafd5f58e *BepInEx\config\com.github.jkqt.StaminaInfo.cfg
 d7becf6d30d1c6831610eae1955a8d05 *BepInEx\config\com.leer.daynightui.cfg
 2ee1c5a281a12c9307d68b5ff5638d1d *BepInEx\config\com.Playboi.Compass.cfg
+e23f985905523ecac5cd9ea4c8e879a8 *BepInEx\config\com.smckeen.morepeak.cfg
 84b1c0d36c9b0b21fad7b480137168af *BepInEx\config\MultiplayerQOL.cfg
 ecf8cc37b8d36dc9498c36dbdc1b2987 *BepInEx\config\nickklmao.easybackpack.cfg
 4705aa1c7a9795d2787722bc8c419ae8 *BepInEx\core\0Harmony.dll
@@ -31,9 +32,11 @@ b41ea71f1b1bd676092243d75450a2c2 *BepInEx\core\MonoMod.Utils.xml
 ce6814619d9579abb08326d96e5b76b5 *BepInEx\plugins\com.github.jkqt.ItemInfoDisplay.dll
 a1f83fd7770e75f18d9dbeb799af3152 *BepInEx\plugins\com.github.jkqt.ItemUseTime.dll
 b28085eb2fbeedc1651c591ae4d35911 *BepInEx\plugins\com.github.jkqt.StaminaInfo.dll
+0cb6c82652d093eebb75630d0e0a49f1 *BepInEx\plugins\com.github.SniffRx.FriendsInfo.dll
 9f13dcc362c00cb69e6ba383e50b8b32 *BepInEx\plugins\Compass.dll
 ccf3560b64ca0046c539790475799af2 *BepInEx\plugins\EasyBackpack.dll
 27931136ca234846d393c293de45c56d *BepInEx\plugins\LeerDayNightUI.dll
+7e33cad9aa651b3a09065a2ddab03849 *BepInEx\plugins\MorePeak.dll
 5886c1cfb4de766e81342beea6b60c8f *BepInEx\plugins\MultiplayerQOL.dll
 c73b4b728796e13396d11927edd93be5 *BepInEx\plugins\daynightui_sprites\Peak_Moon.png
 2deb7def0a30d947b77ef96782ade529 *BepInEx\plugins\daynightui_sprites\Peak_Sun.png
