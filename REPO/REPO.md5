@@ -1,6 +1,7 @@
 e46528792882c54882f660b60936a0fc *.doorstop_version
 387896b4ba25b5a00568e92165c1bd01 *doorstop_config.ini
 26a6448703b90824806f032c6940b511 *winhttp.dll
+1470f1b227ce82ba7e9abe4abc8ffefb *BepInEx\config\BepInEx.cfg
 bc746a65d0ac948cde96de649d6f27f9 *BepInEx\config\spindles.MorePlayersImproved.cfg
 f5bae8d19e39c3633bcf63d328f60214 *BepInEx\config\zelofi.MorePlayers.cfg
 4705aa1c7a9795d2787722bc8c419ae8 *BepInEx\core\0Harmony.dll
