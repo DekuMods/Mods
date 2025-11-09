@@ -29,7 +29,8 @@ e6e0f414ae9625d49eca9d5921492f51 *BepInEx\core\BepInEx.Preloader.dll
 96c7b1340105a3b86f3e8d19a844903a *BepInEx\core\MonoMod.Utils.dll
 b41ea71f1b1bd676092243d75450a2c2 *BepInEx\core\MonoMod.Utils.xml
 03d03079c37adba7274daea098328c77 *BepInEx\plugins\com.github.boxofbiscuits97.GhostPing.dll
-ce6814619d9579abb08326d96e5b76b5 *BepInEx\plugins\com.github.jkqt.ItemInfoDisplay.dll
+88fb3b76e71fe9b101f2d583094f243a *BepInEx\plugins\com.github.boxofbiscuits97.ItemStats.dll
+d858a87db3a918364b3eb6ff133ab138 *BepInEx\plugins\com.github.boxofbiscuits97.PingDistance.dll
 a1f83fd7770e75f18d9dbeb799af3152 *BepInEx\plugins\com.github.jkqt.ItemUseTime.dll
 b28085eb2fbeedc1651c591ae4d35911 *BepInEx\plugins\com.github.jkqt.StaminaInfo.dll
 0cb6c82652d093eebb75630d0e0a49f1 *BepInEx\plugins\com.github.SniffRx.FriendsInfo.dll
