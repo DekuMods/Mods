@@ -28,9 +28,7 @@ e7071a7c35b02caa1e1408781e67c063 *BepInEx\core\BepInEx.Preloader.dll
 7cdc7f0ea1d474acc68c86edfb4d9960 *BepInEx\core\MonoMod.RuntimeDetour.xml
 96c7b1340105a3b86f3e8d19a844903a *BepInEx\core\MonoMod.Utils.dll
 b41ea71f1b1bd676092243d75450a2c2 *BepInEx\core\MonoMod.Utils.xml
-b8930382f33de35adb9de8e87bb2a90a *BepInEx\plugins\LateRepo.dll
-9950dde251cfab54b9a9a61f4cc7e303 *BepInEx\plugins\LateRepoFix.dll
-7f8b5b2edc97a08a91104b8a3cabbf60 *BepInEx\plugins\mydamagecanvasbundle
 82c88c58b0666273dbee1a1f2d78eb49 *BepInEx\plugins\REPO_ShowEnemyHealth.dll
+a39da1459e57513fb06c56f3db84cb8f *BepInEx\plugins\Zichen-LateJoinNow-1.0.8.dll
 b92635f64e482928851ea5781a1584ea *BepInEx\plugins\MorePlayers\MorePlayers.dll
 74d695adc0e612d32e48c02a946e9292 *BepInEx\plugins\MorePlayers\MorePlayers.pdb
